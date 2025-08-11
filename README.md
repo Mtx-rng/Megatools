@@ -23,14 +23,17 @@ O script possui um menu com animações, arte ASCII e spinner para melhorar a ex
 
 1. Clone ou baixe o script
 2. ```bash
-   git clone http://github.com/Mtx-rng/megatools.git 
-4. Dê permissão de execução:
+   git clone http://github.com/Mtx-rng/megatools.git
+3. entre na pasta
+4. ```bash
+   cd Megatools
+5. Dê permissão de execução:
    ```bash
-   chmod +x megatools.sh
+   chmod +x Megatools.sh
 
-5. Execute o script:
+6. Execute o script:
 
 ```bash
-bash megatools.sh
+bash Megatools.sh
 
 
